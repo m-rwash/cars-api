@@ -1,4 +1,4 @@
-### Basic CRUD rails api for react frontend app
+### Basic CRUD rails api for react frontend app github.com/m-rwash/my-cars
 
 ### Rails 5 --api only 
 
@@ -7,6 +7,7 @@
   * `cd cars-api`
   * `rails s -p 3001`
 3. go clone react app and launch it 
+  * `git clone git@github.com:m-rwash/my-cars.git`
 
 
 #### LIVE on Heroku 
