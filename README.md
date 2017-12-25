@@ -1,24 +1,13 @@
-# README
+### Basic CRUD rails api for react frontend app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Rails 5 --api only 
 
-Things you may want to cover:
+1. clone `git clone git@github.com:m-rwash/cars-api.git`
+2. launch rails on port 3001
+  * `cd cars-api`
+  * `rails s -p 3001`
+3. go clone react app and launch it 
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### LIVE on Heroku 
+  * API: https://aqueous-caverns-93359.herokuapp.com/api/v1/cars
